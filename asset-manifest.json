@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/siwes_scheme/static/css/main.8fc9a01d.css",
-    "main.js": "/siwes_scheme/static/js/main.79607829.js",
+    "main.js": "/siwes_scheme/static/js/main.5b09c281.js",
     "static/js/787.79529623.chunk.js": "/siwes_scheme/static/js/787.79529623.chunk.js",
     "static/media/img3.png": "/siwes_scheme/static/media/img3.2f1b0e59c7ec75604099.png",
     "static/media/img2.png": "/siwes_scheme/static/media/img2.a950ba72cdd949a48742.png",
@@ -10,11 +10,11 @@
     "static/media/Galada.woff": "/siwes_scheme/static/media/Galada.104294d90213fae131a3.woff",
     "index.html": "/siwes_scheme/index.html",
     "main.8fc9a01d.css.map": "/siwes_scheme/static/css/main.8fc9a01d.css.map",
-    "main.79607829.js.map": "/siwes_scheme/static/js/main.79607829.js.map",
+    "main.5b09c281.js.map": "/siwes_scheme/static/js/main.5b09c281.js.map",
     "787.79529623.chunk.js.map": "/siwes_scheme/static/js/787.79529623.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fc9a01d.css",
-    "static/js/main.79607829.js"
+    "static/js/main.5b09c281.js"
   ]
 }
